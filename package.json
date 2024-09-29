@@ -1,0 +1,35 @@
+{
+  "name": "rockyreact-dev",
+  "version": "1.0.0",
+  "description": "my react-dev",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit200797/RockyReact-dev.git"
+  },
+  "keywords": [
+    "amit"
+  ],
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amit200797/RockyReact-dev/issues"
+  },
+  "homepage": "https://github.com/Amit200797/RockyReact-dev#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "parcel": "^2.12.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "postcss": "^8.4.47",
+    "postcss-preset-env": "^10.0.5",
+    "react-dom": "^18.3.1"
+  }
+ 
+}
